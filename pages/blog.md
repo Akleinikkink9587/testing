@@ -3,6 +3,6 @@ layout: blog
 title: Portfolio
 permalink: /blog
 section: blog
-intro_paragraph: 'Here are some of the project I have worked:'
+intro_paragraph: ''
 ---
-
+Bellow are some of the projects I have worked on.
