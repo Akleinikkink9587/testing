@@ -16,4 +16,4 @@ I have experience programming in C#, JavaScript, Java, Python, and SQL. I also h
 
 One of my hobbies is building computers and researching computer components. I have built multiple PCs for myself and my friends and find it very enjoyable.
 
-Another one of my hobbies is mountain biking. I really enjoy how it gets you out into nature and find that it a good outlet for getting a good workout and feeling very refreshed after.
+Another one of my hobbies is mountain biking. I really enjoy how it gets you out into nature and find that it a good outlet for getting a good workout and that you feel very refreshed after a ride.
